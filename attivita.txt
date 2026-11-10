@@ -6,4 +6,6 @@ Attività:
 
 3. votazione preferiti
 
-4. rivelazione vincitore e premiazione
+4. rivelazione vincitore e premiazione - EXTRA
+
+5. saluti finali
